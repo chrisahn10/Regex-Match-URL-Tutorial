@@ -2,6 +2,9 @@
 
 Welcome to this Regex Tutorial! What are regular expressions? How do they work? Why are they so important in programming? In this tutorial, we'll explore these questions and more. Regular expressions are sequences of characters that define a search pattern, commonly used for string matching and manipulation. In this guide, we'll dive into a regex used for matching URLs.
 
+What Is a Regex?
+A regex, which is short for regular expression, is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string. They are also frequently used to validate input.
+
 ## Summary
 
 The regular expression we will examine is designed to match URLs. URLs follow a specific pattern that includes a protocol, domain name, and optional path and query parameters. Our regex is:
