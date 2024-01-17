@@ -8,7 +8,7 @@ The regular expression we will examine is designed to match URLs. URLs follow a 
 
 ```regex
 /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
-
+```
 This regex is capable of matching a wide range of URLs, including those with and without the HTTP/HTTPS protocol prefixes. It recognizes domain names and paths, handling a variety of top-level domains.
 
 ## Table of Contents
